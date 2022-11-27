@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanishka-04
 - 👀 I have basic knowledge of C++, Python and Html.
-- 🌱 I’m currently learning - Python, C++, Django
+- 🌱 I’m currently learning - Django + (Python, C++)
 - 💞️ (Don't have a specific direction for now and want to contribute to open source codes)
 - I'd really appreciate any guidance/comments/references. :)
 - 📫 Linkedin - https://www.linkedin.com/in/tanishka-patil-771653258
